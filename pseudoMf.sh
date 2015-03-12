@@ -4,7 +4,7 @@ DIR=$(dirname $0)
 JAVA=java
 
 MC_JAR=$DIR/pseudoMf-1.0.0.jar
-MC_BIN_COMP_MNG_JAVA_ARGS=./PseudoMf.properties
+MC_BIN_COMP_MNG_JAVA_ARGS=$DIR/PseudoMf.properties
 
 TMP=/var/tmp
 MC_COMPJ_PID_FILE=$TMP/pseudoMf.pid

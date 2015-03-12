@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/*
+* Copyright 2015 FUJITSU LIMITED.
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*   http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+/* --- 見出しエリア --- */
+div.heading {
+    width: 600px; /* 見出しエリアの幅 */
+    margin-bottom: 1em;
+    padding: 4px 0; /* 見出しエリアのパディング（上下、左右） */
+    border-bottom: 1px #c0c0c0 solid; /* 見出しエリアの下境界線 */
+}
+
+/* --- 見出し --- */
+div.heading h3 {
+    margin: 0;
+    padding: 3px 3px 0 5px; /* 見出しのパディング（上右下左） */
+    border-left: 5px #ff8000 solid; /* 見出しの左境界線 */
+    font-size: 100%; /* 見出しの文字サイズ */
+    line-height: 100%;
+}
+

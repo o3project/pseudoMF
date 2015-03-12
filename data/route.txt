@@ -1,0 +1,2 @@
+{"request":{"terminationPoints":{"inPoint":"NW=SDN,NE=FW1,Layer=ODU,TTP=1","outPoint":"NW=SDN,NE=FW2,Layer=ODU,TTP=1"},"direction":"unidirectional","constraint":{"bandwidth":"10020","latency":"1"}}}::{"fjFlowId":"1","terminationPointPairs":[{"inPoint":"NW=SDN,NE=FW1,Layer=ODU,TTP=1","outPoint":"NW=SDN,NE=FW1,Layer=ODU,CTP=1"},{"inPoint":"NW=SDN,NE=FW2,Layer=ODU,CTP=1","outPoint":"NW=SDN,NE=FW2,Layer=ODU,TTP=1"}],"constraint":{"bandwidth":"10020","latency":"1"}}
+

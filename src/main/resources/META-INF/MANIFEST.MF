@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: t01_yamaguchi
+Build-Jdk: 1.7.0_40
+Main-Class: com.fujitsu.kcn.PseudoMC.PseudoMcMain
+Class-Path: lib/org.restlet.jar

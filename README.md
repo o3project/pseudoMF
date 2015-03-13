@@ -17,6 +17,7 @@ Middleware: Java 7 and later, Maven2
 
     $ cd ~
     $ git clone https://github.com/o3project/pseudoMF.git
+    $ cd pseudoMF
     $ bash ./build.sh
     $ tar xvfz ./target/pseudoMf-1.0.0-bin.tar.gz –C ~/
 
@@ -35,13 +36,13 @@ set OCNRM’s REST access points. For example,
  Starting PseudoMF
 --------------------------
 
-    $ ~/pseudoMf-1.0.0-bin/pseudoMf.sh -s
+    $ ~/pseudoMf-1.0.0/pseudoMf.sh -s
 
 
 
  Stopping PseudoMF
 --------------------------
 
-    $ ~/pseudoMf-1.0.0-bin/pseudoMf.sh -q
+    $ ~/pseudoMf-1.0.0/pseudoMf.sh -q
 
 

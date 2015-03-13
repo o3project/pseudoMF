@@ -5,6 +5,7 @@ PseudoMF(Pseudo Management Functions) is a software which works instead of physi
 
 PseudoMF provides optical core network resources information to OCNRM, ID mapping information between OpenFlow and internal ID (as we call Information Model ID), route information for new resource creation.
 
+Please see [starting guide](http://www.o3project.org/ja/fujitsu/docs/getting_started_OPT.pdf) for detailed instructions of "Opt-transport apps of O3 orchestrator & controller suite". 
 
  Environment
 --------------------------
